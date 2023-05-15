@@ -48,7 +48,8 @@ void logo (){
     gotoxy(34, 18);
     printf("       .........                    ..........");
     gotoxy(34, 20);
-    printf("             - I  N  F  I  N  I  T  Y -");
+    printf("                 - A u t o S o f t -");
+
     gotoxy(34, 21);
     printf("                  M  O  T  O  R  S");
     gotoxy(0, 24);
@@ -541,7 +542,7 @@ void create_log (char* path){
     struct log log;
     char line_text[MAX_LENGTH];
 
-    printf("Este es el desarrollo de la bit·cora\n");
+    printf("Este es el desarrollo de la bit√°cora\n");
     printf("Para finalizar de escribir, escribe en una linea blanca \"/finalizar\"");
     gotoxy(0, 3);
     printf("Nombre de bitacora: ");
