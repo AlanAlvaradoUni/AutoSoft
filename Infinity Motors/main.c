@@ -57,15 +57,11 @@ void logo (){
 void presentation (){
     sleep(SLEEP_TIME);
     gotoxy(47, 11);
-    printf("Somos Infinity Motors");
+    printf("Somos AutoSoft");
     gotoxy(47, 12);
-    printf("Version: 1.0.0");
+    printf("Version: 1.0.0");
     gotoxy(47, 13);
-    printf("By Alan Ricardo Alvarado Ahedo");
-    gotoxy(47, 14);
     printf("Ingeneria en Computacion");
-    gotoxy(47, 15);
-    printf("Programacion Estructurada");
     sleep(SLEEP_TIME);
 }
 
