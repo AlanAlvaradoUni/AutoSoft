@@ -50,8 +50,8 @@ void logo (){
     gotoxy(34, 20);
     printf("                 - A u t o S o f t -");
 
-    gotoxy(34, 21);
-    printf("                  M  O  T  O  R  S");
+
+
     gotoxy(0, 24);
 
     sleep(SLEEP_TIME);
