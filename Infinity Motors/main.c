@@ -111,7 +111,7 @@ int login (){
 }
 
 int main(){
-    /*char user_type;
+    char user_type;
 
     logo();
     system("cls");
@@ -123,7 +123,7 @@ int main(){
 
     if (user_type == 1){
             menu(user_type);
-    }*/
+    }
 
     menu(1);
 
